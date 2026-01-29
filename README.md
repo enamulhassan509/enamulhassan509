@@ -66,7 +66,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![Best Repo](https://github-readme-stats.vercel.app/api/pin/?username=enamulhassan509&repo=enamulhassan509)](https://github.com/enamulhassan509/enamulhassan509)
+[![Best Repo](https://opengraph.githubassets.com/1/enamulhassan509/enamulhassan509)](https://github.com/enamulhassan509/enamulhassan509)
 
 
 <p align="left">
