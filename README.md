@@ -65,18 +65,19 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 <br/>
 
 ## Best Repo -
-<div align="left">
+<div style="
+  display:inline-block;
+  max-width:100%;
+  border:2px solid #7F3FBF;
+  border-radius:14px;
+  padding:10px;
+  box-shadow: 0 10px 28px rgba(127, 63, 191, 0.35);
+">
   <a href="https://github.com/enamulhassan509/enamulhassan509">
     <img
       src="https://opengraph.githubassets.com/1/enamulhassan509/enamulhassan509"
       alt="Best Repo"
-      width="420"
-      style="
-        border: 2px solid #7F3FBF;
-        border-radius: 12px;
-        padding: 6px;
-        box-shadow: 0 8px 24px rgba(127, 63, 191, 0.35);
-      "
+      style="max-width:100%; width:420px; height:auto; display:block;"
     />
   </a>
 </div>
