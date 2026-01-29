@@ -65,7 +65,6 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 <br/>
 
 ## Best Repo -
-<h2>Best Repo</h2>
 
 <table>
   <tr>
