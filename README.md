@@ -66,7 +66,13 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![Best Repo](https://opengraph.githubassets.com/1/enamulhassan509/enamulhassan509)](https://github.com/enamulhassan509/enamulhassan509)
+<a href="https://github.com/enamulhassan509/enamulhassan509">
+  <img
+    src="https://opengraph.githubassets.com/1/enamulhassan509/enamulhassan509"
+    style="max-width:100%; width:420px;"
+    alt="Best Repo"
+  />
+</a>
 
 
 <p align="left">
