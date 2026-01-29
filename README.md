@@ -77,13 +77,6 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
           alt="enamulhassan509 repository"
         />
       </a>
-      <br/><br/>
-      <a href="https://github.com/enamulhassan509?tab=repositories">
-        <img
-          src="https://img.shields.io/badge/ALL%20REPOS-View-blue?style=for-the-badge"
-          alt="All Repositories"
-        />
-      </a>
     </td>
   </tr>
 </table>
